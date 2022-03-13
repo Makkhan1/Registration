@@ -1,0 +1,47 @@
+h1{
+	color: white;
+	text-align: center;
+	font-family: algerian;
+	font-size: 64px;
+	background-image: url('../image/bb.jpg');
+}
+h2{
+	color: blue;
+	text-align: center;
+	background-color: green;
+	font-family: arial;
+	font-size:32px;
+}
+label{
+	margin-top: 16px;
+	margin-left: 600px;
+	font-weight: bolder;
+	color: hotpink;
+}
+label1{
+		color: red;
+}
+.box1{
+	margin-bottom: 16px;
+}
+select{
+	margin-left: 36px;
+}
+.box2{
+	border: 2px red solid;
+	padding-top: 10px;
+	padding-right: 10px;
+	background-image: url('../image/aa.jpg');
+}
+.box3{
+	text-align: center;
+}
+marquee{
+	color: red;
+	font-weight: bolder;
+	font-size: 22px;
+}
+p{
+	text-align: center;
+	font-weight: bolder;
+}
